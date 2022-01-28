@@ -5,14 +5,23 @@
 
 ## Sesiones
 
-- [ ] Sesión 01 - Introducción
+- [x] Sesión 01 - Introducción
 
-  - Programación 
+    16:00 | [Código](https://gist.github.com/EmilioOcelotl/9a0103c34666294dde3e3a2b780b618d) | [Video](https://drive.google.com/file/d/1p6W0XWGtOggFoLfmAx43O2rsuFyEZShD/view?usp=sharing)
+    18:30 | [Código](https://gist.github.com/EmilioOcelotl/7b5d609ae121f6d185f50955dfae23fc) | [Video](https://drive.google.com/file/d/1Xy2IqWXSCLMJu1Lu8Zf26TExHzOyDPf_/view?usp=sharing)
+
+  - Programación
   - [Processing](https://processing.org/download). Instalación y explicación
     - Entorno de Desarrollo Integrado
     - Lenguaje de Programación
     - Motor gráfico
   - Modo estático, funciones y parámetros
+
+- [ ] Sesión 02 - Primeros pasos
+  - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
+  - Formas y funciones de color
+  - Variables
+  - Operaciones aritméticas 
 
 ## Salidas de aprendizaje
 
@@ -29,17 +38,17 @@
 - **Segundo parcial:** participación 5% y ejercicio a entregar 20%
 - **Tercer parcial:** participación 5% y ejercicio a entregar 10%
 
-## Referencias 
+## Referencias
 
 - Bohnacker, H., Groß, B., & Laub, J. (2009). Generative design: visualize, program and create with processing. New York: Princeton Architectural Press.
 - Cormen, T. H. (2013). Algorithms unlocked. Cambridge, Massachusetts: The MIT Press.
 - Cormen, T., & Balkcom, D. (2018, Diciembre). Khan Academy. Retrieved from Computer science algorithms: https://www.khanacademy.org/computing/computer-science/algorithms
-- Cramer, F. (2008) Language. In Fuller, Matthew, Ed., Software Studies, a Lexicon. Massachusetts: MIT Press. 
+- Cramer, F. (2008) Language. In Fuller, Matthew, Ed., Software Studies, a Lexicon. Massachusetts: MIT Press.
 - Crews, T., & Murphy, C. (2008). A guide to working with visual logic.
 - Johnsonbaugh, R. (1999). Matemáticas discretas, 4a ed. México: Prentice Hall.
 - Liers, F. (n.d.). Basic Introduction into Algorithms and Data. Germany: University of Cologne.
 - Petzold, C. (2000). The hidden language of computer hardware and software. Redmond, Washington: Microsoft Press.
 - Reas, C., & Fry, B. (2014). Processing: a programming handbook for visual designers and artists. Massachusetts: MIT Press.
 - Reas, C., McWilliams, C., & LUST. (2010). Form + Code: in design, art and architecture. New York:Princeton Architectural Press.
-- Runberg, D. (2015). The Sparkfun Guide To Processing. San Francisco: No Starch Press. 
+- Runberg, D. (2015). The Sparkfun Guide To Processing. San Francisco: No Starch Press.
 - Van Cleave, M., & Community, L. (2016). Introduction to logic and critical thinking. Independent.
