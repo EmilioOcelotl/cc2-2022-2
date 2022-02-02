@@ -1,3 +1,4 @@
+![portada](https://github.com/EmilioOcelotl/cc2-2022-2/blob/main/img/of13.png)
 
 # Código Creativo | Segundo Semestre | 2022-2
 
@@ -21,7 +22,7 @@
   - Revisar y comentar: [Zach Lieberman](http://zach.li/) 
   - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
   - Formas y funciones de color
-  - Variables
+  - [Variables](https://processing.org/examples/variables.html)
   - Operaciones aritméticas 
 
 ## Salidas de aprendizaje
