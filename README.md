@@ -7,8 +7,8 @@
 
 - [x] Sesión 01 - Introducción
 
-    16:00 | [Código](https://gist.github.com/EmilioOcelotl/9a0103c34666294dde3e3a2b780b618d) | [Video](https://drive.google.com/file/d/1p6W0XWGtOggFoLfmAx43O2rsuFyEZShD/view?usp=sharing)
-    18:30 | [Código](https://gist.github.com/EmilioOcelotl/7b5d609ae121f6d185f50955dfae23fc) | [Video](https://drive.google.com/file/d/1Xy2IqWXSCLMJu1Lu8Zf26TExHzOyDPf_/view?usp=sharing)
+  - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/9a0103c34666294dde3e3a2b780b618d) | [Video](https://drive.google.com/file/d/1p6W0XWGtOggFoLfmAx43O2rsuFyEZShD/view?usp=sharing)
+  - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/7b5d609ae121f6d185f50955dfae23fc) | [Video](https://drive.google.com/file/d/1Xy2IqWXSCLMJu1Lu8Zf26TExHzOyDPf_/view?usp=sharing)
 
   - Programación
   - [Processing](https://processing.org/download). Instalación y explicación
@@ -18,6 +18,7 @@
   - Modo estático, funciones y parámetros
 
 - [ ] Sesión 02 - Primeros pasos
+  - Revisar y comentar: [Zach Lieberman](http://zach.li/) 
   - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
   - Formas y funciones de color
   - Variables
