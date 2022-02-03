@@ -21,9 +21,10 @@
 - [ ] Sesión 02 - Primeros pasos
   - Revisar y comentar: [Zach Lieberman](http://zach.li/) 
   - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
-  - Formas y funciones de color
+  - Formas y funciones de color (fondo, relleno y contorno) 
   - [Variables](https://processing.org/examples/variables.html)
-  - Operaciones aritméticas 
+  - Operaciones aritméticas
+  - Ejercicio siguiente semana: figuras colores y transparencias 
 
 ## Salidas de aprendizaje
 
