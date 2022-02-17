@@ -18,7 +18,11 @@
     - Motor gráfico
   - Modo estático, funciones y parámetros
 
-- [ ] Sesión 02 - Primeros pasos
+- [x] Sesión 02 - Primeros pasos
+
+  - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/870b4d0586cf9d7edd0884dbb3473fcc) | [Video](https://drive.google.com/file/d/19PreTwDhIUt0-UCSmjIixHlkTivQ3YIC/view?usp=sharing)
+  - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/f8746a8846f58f7f6258717701cb0586) | [Video](https://drive.google.com/file/d/19PreTwDhIUt0-UCSmjIixHlkTivQ3YIC/view?usp=sharing)
+
   - Revisar y comentar: [Zach Lieberman](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
   - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
   - Formas y funciones de color (fondo, relleno y contorno) 
@@ -28,11 +32,20 @@
   - Para la siguiente sesión.- Leer (por lo menos hasta las reglas): [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
 
 - [ ] Sesión 03 - Primer estudio 
-  - Delimitar premisas para el primer estudio
+
+  - Comentar: Daily Sketches 
+  - Repaso sobre sistema de coordenadadas, formas, operaciones, tipos de datos y color
+  - Processing como una serie de instrucciones finitas
+  - Modo dinámico
+  - Momentos de un programa de processing 
+  - Posibilidades de la interacción: posición del mouse
+  - Contadores
+
+- [ ] Sesión 04 - Premisas entrega 
 
 ## Actividades y entregas
 
-- [ ] 10.02.2022.- Leer y comentar: [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
+- [ ] 17.02.2022.- Leer y comentar: [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
 
 ## Salidas de aprendizaje
 
