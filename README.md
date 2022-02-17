@@ -8,38 +8,38 @@
 
 - [x] Sesión 01 - Introducción
 
-  - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/9a0103c34666294dde3e3a2b780b618d) | [Video](https://drive.google.com/file/d/1p6W0XWGtOggFoLfmAx43O2rsuFyEZShD/view?usp=sharing)
-  - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/7b5d609ae121f6d185f50955dfae23fc) | [Video](https://drive.google.com/file/d/1Xy2IqWXSCLMJu1Lu8Zf26TExHzOyDPf_/view?usp=sharing)
+- 16:00 | [Código](https://gist.github.com/EmilioOcelotl/9a0103c34666294dde3e3a2b780b618d) | [Video](https://drive.google.com/file/d/1p6W0XWGtOggFoLfmAx43O2rsuFyEZShD/view?usp=sharing)
+- 18:30 | [Código](https://gist.github.com/EmilioOcelotl/7b5d609ae121f6d185f50955dfae23fc) | [Video](https://drive.google.com/file/d/1Xy2IqWXSCLMJu1Lu8Zf26TExHzOyDPf_/view?usp=sharing)
 
-  - Programación
-  - [Processing](https://processing.org/download). Instalación y explicación
-    - Entorno de Desarrollo Integrado
-    - Lenguaje de Programación
-    - Motor gráfico
-  - Modo estático, funciones y parámetros
+- Programación
+- [Processing](https://processing.org/download). Instalación y explicación
+  - Entorno de Desarrollo Integrado
+  - Lenguaje de Programación
+  - Motor gráfico
+- Modo estático, funciones y parámetros
 
 - [x] Sesión 02 - Primeros pasos
 
-  - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/870b4d0586cf9d7edd0884dbb3473fcc) | [Video](https://drive.google.com/file/d/19PreTwDhIUt0-UCSmjIixHlkTivQ3YIC/view?usp=sharing)
-  - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/f8746a8846f58f7f6258717701cb0586) | [Video](https://drive.google.com/file/d/19PreTwDhIUt0-UCSmjIixHlkTivQ3YIC/view?usp=sharing)
+- 16:00 | [Código](https://gist.github.com/EmilioOcelotl/870b4d0586cf9d7edd0884dbb3473fcc) | [Video](https://drive.google.com/file/d/19PreTwDhIUt0-UCSmjIixHlkTivQ3YIC/view?usp=sharing)
+- 18:30 | [Código](https://gist.github.com/EmilioOcelotl/f8746a8846f58f7f6258717701cb0586) | [Video](https://drive.google.com/file/d/19PreTwDhIUt0-UCSmjIixHlkTivQ3YIC/view?usp=sharing)
 
-  - Revisar y comentar: [Zach Lieberman](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
-  - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
-  - Formas y funciones de color (fondo, relleno y contorno) 
-  - [Variables](https://processing.org/examples/variables.html)
-  - Operaciones aritméticas
-  - Ejercicio siguiente semana: figuras colores y transparencias 
-  - Para la siguiente sesión.- Leer (por lo menos hasta las reglas): [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
+- Revisar y comentar: [Zach Lieberman](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
+- [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
+- Formas y funciones de color (fondo, relleno y contorno) 
+- [Variables](https://processing.org/examples/variables.html)
+- Operaciones aritméticas
+- Ejercicio siguiente semana: figuras colores y transparencias 
+- Para la siguiente sesión.- Leer (por lo menos hasta las reglas): [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
 
 - [ ] Sesión 03 - Primer estudio 
 
-  - Comentar: Daily Sketches 
-  - Repaso sobre sistema de coordenadadas, formas, operaciones, tipos de datos y color
-  - Processing como una serie de instrucciones finitas
-  - Modo dinámico
-  - Momentos de un programa de processing 
-  - Posibilidades de la interacción: posición del mouse
-  - Contadores
+- Comentar: Daily Sketches 
+- Repaso sobre sistema de coordenadadas, formas, operaciones, tipos de datos y color
+- Processing como una serie de instrucciones finitas
+- Modo dinámico
+- Momentos de un programa de processing 
+- Posibilidades de la interacción: posición del mouse
+- Contadores
 
 - [ ] Sesión 04 - Premisas entrega 
 
