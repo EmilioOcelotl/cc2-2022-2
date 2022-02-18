@@ -27,16 +27,20 @@
   - Ejercicio siguiente semana: figuras colores y transparencias 
   - Para la siguiente sesión.- Leer (por lo menos hasta las reglas): [Zach Lieberman	- Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
 
-- [ ] Sesión 03 - Primer estudio 
+- [x] Sesión 03 - Primer estudio
+  - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/6ca311d740851cfddff5484d5b526e85) | [Video](https://drive.google.com/file/d/115XN5gCp2VOKStRallkIp8Se3hzEzfii/view?usp=sharing)
+  - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/10001012d61fed1a776704fb6f7cf58f) | [Video](https://drive.google.com/file/d/1g9_M14Xch1JAcAaTM6v6ePh9PTOQqhRN/view?usp=sharing)
   - Comentar: Daily Sketches 
-  - Repaso sobre sistema de coordenadadas, formas, operaciones, tipos de datos y color
+  - Repaso sobre sistema de coordenadas, formas, operaciones, variables, tipos de datos y color
   - Processing como una serie de instrucciones finitas
-  - Modo dinámico
+  - Introducción Modo dinámico
+    - Animación > demostración con saveFrame() 
   - Momentos de un programa de processing 
   - Posibilidades de la interacción: posición del mouse
-  - Contadores
+  - frameCount 
 
-- [ ] Sesión 04 - Premisas entrega 
+- [ ] Sesión 04 - Ejercicio y modo dinámico
+  - Transformaciones y map 
 
 ## Actividades y entregas
 
