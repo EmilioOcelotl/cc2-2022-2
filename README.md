@@ -6,45 +6,27 @@
 
 ## Sesiones
 
-- [x] Sesión 01 - Introducción
+- [x] [Sesión 01](https://github.com/EmilioOcelotl/cc2-2022-2/tree/main/s01) - Introducción
   - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/9a0103c34666294dde3e3a2b780b618d) | [Video](https://drive.google.com/file/d/1p6W0XWGtOggFoLfmAx43O2rsuFyEZShD/view?usp=sharing)
   - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/7b5d609ae121f6d185f50955dfae23fc) | [Video](https://drive.google.com/file/d/1Xy2IqWXSCLMJu1Lu8Zf26TExHzOyDPf_/view?usp=sharing)
-  - Programación
-  - [Processing](https://processing.org/download). Instalación y explicación
-    - Entorno de Desarrollo Integrado
-    - Lenguaje de Programación
-    - Motor gráfico
-    - Modo estático, funciones y parámetros
 
-- [x] Sesión 02 - Primeros pasos
+- [x] [Sesión 02](https://github.com/EmilioOcelotl/cc2-2022-2/tree/main/s02) - Primeros pasos
   - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/870b4d0586cf9d7edd0884dbb3473fcc) | [Video](https://drive.google.com/file/d/19PreTwDhIUt0-UCSmjIixHlkTivQ3YIC/view?usp=sharing)
   - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/f8746a8846f58f7f6258717701cb0586) | [Video](https://drive.google.com/file/d/19PreTwDhIUt0-UCSmjIixHlkTivQ3YIC/view?usp=sharing)
-  - Revisar y comentar: [Zach Lieberman](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
-  - [Sistema de coordenadas](https://processing.org/tutorials/coordinatesystemandshapes)
-  - Formas y funciones de color (fondo, relleno y contorno) 
-  - [Variables](https://processing.org/examples/variables.html)
-  - Operaciones aritméticas
-  - Ejercicio siguiente semana: figuras colores y transparencias 
-  - Para la siguiente sesión.- Leer (por lo menos hasta las reglas): [Zach Lieberman	- Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e)
 
-- [x] Sesión 03 - Primer estudio
+- [x] [Sesión 03](https://github.com/EmilioOcelotl/cc2-2022-2/tree/main/s03) - Primer estudio
   - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/6ca311d740851cfddff5484d5b526e85) | [Video](https://drive.google.com/file/d/115XN5gCp2VOKStRallkIp8Se3hzEzfii/view?usp=sharing)
   - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/10001012d61fed1a776704fb6f7cf58f) | [Video](https://drive.google.com/file/d/1g9_M14Xch1JAcAaTM6v6ePh9PTOQqhRN/view?usp=sharing)
-  - Comentar: Daily Sketches 
-  - Repaso sobre sistema de coordenadas, formas, operaciones, variables, tipos de datos y color
-  - Processing como una serie de instrucciones finitas
-  - Introducción Modo dinámico
-    - Animación > demostración con saveFrame() 
-  - Momentos de un programa de processing 
-  - Posibilidades de la interacción: posición del mouse
-  - frameCount 
-
+  
 - [ ] Sesión 04 - Ejercicio y modo dinámico
-  - Transformaciones y map 
-
+  - [Modo Dinámico](https://processing.org/examples/setupdraw.html): Setup y draw
+    - Variables que cambian en el tiempo 
+  - [Map](https://processing.org/reference/map_.html) y explicación de transformaciones 
+  
 ## Actividades y entregas
 
-- [ ] 17.02.2022.- Leer y comentar: [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
+- [x] 17.02.2022.- Leer y comentar: [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
+- [ ] 24.02.2022.- Primera Entrega en Brightspace. Formas y modo dinámico 
 
 ## Salidas de aprendizaje
 
