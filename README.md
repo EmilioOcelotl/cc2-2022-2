@@ -20,8 +20,10 @@
   
 - [ ] Sesión 04 - Ejercicio y modo dinámico
   - [Modo Dinámico](https://processing.org/examples/setupdraw.html): Setup y draw
-    - Variables que cambian en el tiempo 
+    - Variables que cambian en el tiempo
+    - frameCount, mouseX, mouseY 
   - [Map](https://processing.org/reference/map_.html) y explicación de transformaciones 
+  - Repaso express y cambio a modo dinámicoo 
   
 ## Actividades y entregas
 
