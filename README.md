@@ -18,17 +18,29 @@
   - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/6ca311d740851cfddff5484d5b526e85) | [Video](https://drive.google.com/file/d/115XN5gCp2VOKStRallkIp8Se3hzEzfii/view?usp=sharing)
   - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/10001012d61fed1a776704fb6f7cf58f) | [Video](https://drive.google.com/file/d/1g9_M14Xch1JAcAaTM6v6ePh9PTOQqhRN/view?usp=sharing)
   
-- [ ] Sesión 04 - Ejercicio y modo dinámico
-  - [Modo Dinámico](https://processing.org/examples/setupdraw.html): Setup y draw
-  - Repaso express y cambio a modo dinámico
-    - Variables que cambian en el tiempo
-    - frameCount, mouseX, mouseY
-  - [Transformaciones](https://processing.org/tutorials/transform2d) [map](https://processing.org/reference/map_.html) y operación [módulo](https://processing.org/reference/modulo.html)
-  
+- [x] Sesión 04 - Ejercicio y modo dinámico
+  - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/a022fc7fdc3338cef8b7a975afac2672) | [Video](https://drive.google.com/file/d/1OufoNpdu1zNZtL2ak2v9UIf0K9Ae8cUF/view?usp=sharing)
+  - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/502acbef331be0a12e365d636e01df81) | [Video](https://drive.google.com/file/d/1nPp1rJNUMJThkqQ6nZYL8_Z-d9FtUwz3/view?usp=sharing) 
+
+- [ ] Sesión 05 - Continuación y otras formas
+  - ¿ Cómo van ?
+  - Repaso y reconstrucción del ejercicio anterior
+    - Modo dinámico
+    - Contadores y operación módulo
+  - [Otras formas](https://processing.org/examples/shapeprimitives.html) ( menos arc )  
+  - Entrega parcial 
+  - mouseX mouseY
+  - [Transformaciones](https://processing.org/tutorials/transform2d) 
+    - translate y rotate
+  - Si da tiempo: mousePressed / mouseReleased y declaraciones if() 
+
+- [ ] Sesión 06
+  - arc y curvas 
+
 ## Actividades y entregas
 
 - [x] 17.02.2022.- Leer y comentar: [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
-- [ ] 24.02.2022.- Primera Entrega en Brightspace. Formas y modo dinámico 
+- [ ] 03.03.2022.- Primera Entrega en Brightspace. Formas y modo dinámico 
 
 ## Salidas de aprendizaje
 
