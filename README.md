@@ -22,25 +22,29 @@
   - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/a022fc7fdc3338cef8b7a975afac2672) | [Video](https://drive.google.com/file/d/1OufoNpdu1zNZtL2ak2v9UIf0K9Ae8cUF/view?usp=sharing)
   - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/502acbef331be0a12e365d636e01df81) | [Video](https://drive.google.com/file/d/1nPp1rJNUMJThkqQ6nZYL8_Z-d9FtUwz3/view?usp=sharing) 
 
-- [ ] Sesión 05 - Continuación y otras formas
+- [x] Sesión 05 - Continuación y otras formas
+  - 16:00 [Código](https://gist.github.com/EmilioOcelotl/a022fc7fdc3338cef8b7a975afac2672) | [Video](https://drive.google.com/file/d/1DKD_ehuZoHa0G27kpPZmWjYDc4uEgZqJ/view?usp=sharing)
+  - 18:00 [Código](https://gist.github.com/EmilioOcelotl/502acbef331be0a12e365d636e01df81) | [Video](https://drive.google.com/file/d/1_6ZUEmjcxzoYBlVF54br_U7KxG4_hmo1/view?usp=sharing)
+
   - ¿ Cómo van ?
   - Repaso y reconstrucción del ejercicio anterior
     - Modo dinámico
     - Contadores y operación módulo
   - [Otras formas](https://processing.org/examples/shapeprimitives.html) ( menos arc )  
   - Entrega parcial 
-  - mouseX mouseY
   - [Transformaciones](https://processing.org/tutorials/transform2d) 
     - translate y rotate
-  - Si da tiempo: mousePressed / mouseReleased y declaraciones if() 
 
 - [ ] Sesión 06
-  - arc y curvas 
+  - Repaso de otras formas: triangle y quad
+  - Posiciones de objetos como vértices
+  - [formas](https://processing.org/reference/beginShape_.html) personalizadas
+  - condicionales e if() interacción con mouse y colores 
 
 ## Actividades y entregas
 
 - [x] 17.02.2022.- Leer y comentar: [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
-- [ ] 03.03.2022.- Primera Entrega en Brightspace. Formas y modo dinámico 
+- [x] 03.03.2022.- Primera Entrega en Brightspace. Formas y modo dinámico 
 
 ## Salidas de aprendizaje
 
