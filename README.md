@@ -24,7 +24,7 @@
 
 - [x] Sesión 05 - Continuación y otras formas
   - 16:00 [Código](https://gist.github.com/EmilioOcelotl/a022fc7fdc3338cef8b7a975afac2672) | [Video](https://drive.google.com/file/d/1DKD_ehuZoHa0G27kpPZmWjYDc4uEgZqJ/view?usp=sharing)
-  - 18:00 [Código](https://gist.github.com/EmilioOcelotl/502acbef331be0a12e365d636e01df81) | [Video](https://drive.google.com/file/d/1_6ZUEmjcxzoYBlVF54br_U7KxG4_hmo1/view?usp=sharing)
+  - 18:30 [Código](https://gist.github.com/EmilioOcelotl/502acbef331be0a12e365d636e01df81) | [Video](https://drive.google.com/file/d/1_6ZUEmjcxzoYBlVF54br_U7KxG4_hmo1/view?usp=sharing)
 
   - ¿ Cómo van ?
   - Repaso y reconstrucción del ejercicio anterior
@@ -35,11 +35,24 @@
   - [Transformaciones](https://processing.org/tutorials/transform2d) 
     - translate y rotate
 
-- [ ] Sesión 06
+- [x] Sesión 06
+  - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/5b6317b62962c2bb97ee0ed0f8741268) | [Video](https://drive.google.com/file/d/1vfRg9260Bo6BI4GVkukjfRa-6jxcot5M/view?usp=sharing)
+  - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/d61e3e1aea35f2bdbdcb9242212ed7e1) | [Video](https://drive.google.com/file/d/117EINdt-7f1hyPiMhdqy1Loao1VA5wJ6/view?usp=sharing) 
+  
   - Repaso de otras formas: triangle y quad
   - Posiciones de objetos como vértices
   - [formas](https://processing.org/reference/beginShape_.html) personalizadas
   - condicionales e if() interacción con mouse y colores 
+
+- [ ] Sesión 07
+
+  - Entregas ya están registradas, falta envío de retroalimentación y comentarios
+  - Doble clic
+  - Repaso de formas personalizadas
+  - Parámetros de beginShape() > TRIANGLE_STRIP
+  - Parámetros de endShape() > close 
+  - Premisa de ejercicio: Dibujar una figura cerrada con al menos 7 vertices
+  - Para el futuro: revisar arreglos 
 
 ## Actividades y entregas
 
