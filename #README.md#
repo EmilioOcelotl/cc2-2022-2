@@ -44,7 +44,10 @@
   - [formas](https://processing.org/reference/beginShape_.html) personalizadas
   - condicionales e if() interacción con mouse y colores 
 
-- [x] Sesión 07
+- [ ] Sesión 07
+
+  - 16:00 | Código [Inicial](https://gist.github.com/EmilioOcelotl/c83b2c235529aa30cb4d6e98e1324fbb)[Arreglos](https://gist.github.com/EmilioOcelotl/cd7be4d8f9e59515768324e596729c40) | [Video](https://drive.google.com/file/d/1j7YGz3gVvJoNBqoW3hyzTViz1T27Cueo/view?usp=sharing)
+  - 18:30
 
   - Entregas ya están registradas, falta envío de retroalimentación y comentarios
   - Doble clic
@@ -52,15 +55,7 @@
   - Parámetros de beginShape() > TRIANGLE_STRIP
   - Parámetros de endShape() > close 
   - Premisa de ejercicio: Dibujar una figura cerrada con al menos 7 vertices
-- Para el futuro: revisar arreglos
-
-- [ ] Sesión 08
-
-  - Arreglos. Todas las posibilidades
-  - Arreglos y paleta de colores
-    - Hex y transformación de RGB a un formato leíble por Processing
-  - Contadores y arreglos
-  - Código final y entrega
+  - Para el futuro: revisar arreglos 
 
 ## Actividades y entregas
 
