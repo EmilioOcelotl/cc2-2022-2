@@ -61,7 +61,8 @@
     - Hex y transformación de RGB a un formato leíble por Processing
   - Contadores y arreglos
   - Código final y entrega
-
+  - Para la siguiente clase: [Hello World!](http://avant.org/project/hello-world/) 
+  
 ## Actividades y entregas
 
 - [x] 17.02.2022.- Leer y comentar: [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
