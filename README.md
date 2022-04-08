@@ -54,15 +54,36 @@
   - Premisa de ejercicio: Dibujar una figura cerrada con al menos 7 vertices
 - Para el futuro: revisar arreglos
 
-- [ ] Sesión 08
+- [x] Sesión 08
+
+  - 16:00 | [Video](https://drive.google.com/file/d/1xbWhwXaYw9RGM3WTKL145ZpUcFIFrcdN/view?usp=sharing)
+  - 18:30 | [Video](https://drive.google.com/file/d/1QLR84FcnWUU7K22OwO-qUCZMZTyBV8da/view?usp=sharing) 
 
   - Arreglos. Todas las posibilidades
   - Arreglos y paleta de colores
     - Hex y transformación de RGB a un formato leíble por Processing
   - Contadores y arreglos
   - Código final y entrega
-  - Para la siguiente clase: [Hello World!](http://avant.org/project/hello-world/) 
-  
+  - Para la siguiente clase: [Hello World!](http://avant.org/project/hello-world/)
+
+- [x] Sesión 09 Gradientes circulares
+
+  - 16:00 - [Video](https://drive.google.com/file/d/1lgyMYIhP8axydYGEjLtA5xjaYTqmDC6l/view?usp=sharing) | [Código](https://gist.github.com/EmilioOcelotl/ba816eada19c0555575c1fbc27ff02fb)
+  - 18:30 - [Video](https://drive.google.com/file/d/1qgJO5881UeikIyYDf2ZKEOkHfpqmwzOD/view?usp=sharing) | [Código](https://gist.github.com/EmilioOcelotl/ba816eada19c0555575c1fbc27ff02fb)
+
+  - Iteración con for, tamaño y color
+
+- x] Sesión 10 Iteraciones y transformaciones
+
+  - 16:00 - [Video](https://drive.google.com/file/d/1YkxH1cUYfdn3DUg56Rennr_ss-U1VtPo/view?usp=sharing) | [Código](https://gist.github.com/EmilioOcelotl/9fdf89a1e89dc8eaf256fde0a3f1154d)
+  - 18:30 - [Video](https://drive.google.com/file/d/1ClowiAHb-GcZaBmI-Pv0oBUqdHLJTAMr/view?usp=sharing) | [Código](https://gist.github.com/EmilioOcelotl/e9679ae6f5f683c017fbc0eb10d46fd0)
+
+  - for // inicio, limite, cambio 
+  - transformaciones ( translate, rotate y scale ) 
+  - modificar todo el sistema de coordenadas 
+  - push y pop > 
+  - rect
+
 ## Actividades y entregas
 
 - [x] 17.02.2022.- Leer y comentar: [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
