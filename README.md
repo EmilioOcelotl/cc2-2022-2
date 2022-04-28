@@ -73,7 +73,7 @@
 
   - Iteración con for, tamaño y color
 
-- x] Sesión 10 Iteraciones y transformaciones
+- [x] Sesión 10 Iteraciones y transformaciones
 
   - 16:00 - [Video](https://drive.google.com/file/d/1YkxH1cUYfdn3DUg56Rennr_ss-U1VtPo/view?usp=sharing) | [Código](https://gist.github.com/EmilioOcelotl/9fdf89a1e89dc8eaf256fde0a3f1154d)
   - 18:30 - [Video](https://drive.google.com/file/d/1ClowiAHb-GcZaBmI-Pv0oBUqdHLJTAMr/view?usp=sharing) | [Código](https://gist.github.com/EmilioOcelotl/e9679ae6f5f683c017fbc0eb10d46fd0)
@@ -81,8 +81,14 @@
   - for // inicio, limite, cambio 
   - transformaciones ( translate, rotate y scale ) 
   - modificar todo el sistema de coordenadas 
-  - push y pop > 
+  - push y pop >
   - rect
+
+- [ ] Sesión 11 - Iteraciones anidadas
+  - Repaso general
+  - Indentación 
+  - Iteración en posición en 1d
+  - Iteración en posición en 2d 
 
 ## Actividades y entregas
 
