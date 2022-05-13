@@ -84,11 +84,25 @@
   - push y pop >
   - rect
 
-- [ ] Sesión 11 - Iteraciones anidadas
+- [x] Sesión 11 - Iteraciones anidadas
+
+  - 16:00 | [Código](https://gist.github.com/EmilioOcelotl/e3563b2944a335b606e559a8322901d5) | [Video](https://drive.google.com/file/d/1_MSwgCOdEqlwk6V15nhq3qTlff4woto9/view?usp=sharing)
+  - 18:30 | [Código](https://gist.github.com/EmilioOcelotl/e3563b2944a335b606e559a8322901d5) | [Video](https://drive.google.com/file/d/1_MSwgCOdEqlwk6V15nhq3qTlff4woto9/view?usp=sharing)
+
   - Repaso general
   - Indentación 
   - Iteración en posición en 1d
   - Iteración en posición en 2d 
+
+- [x] Sesión 12 - Anidamiento, noise y mouse
+
+  - 16:00 [Código 1](https://gist.github.com/EmilioOcelotl/16a1752c6ce3d3f2766eb0070685e6d1) | [Código 2](https://gist.github.com/EmilioOcelotl/9151f697db427b35a0ad63217627fb15) | [Video](https://drive.google.com/file/d/1DRX0AKcg9Qpy5y85fIFCkKsSdp8OquaV/view?usp=sharing) 
+  - 18:30 [Código](https://gist.github.com/EmilioOcelotl/4ffae7234cd59fffc6957468169927fc) | [Video](https://drive.google.com/file/d/1Ey9S--nTXDygGj49dXcdEVAewlsa4-tN/view?usp=sharing)
+
+- [x] Sesión 13 - Puntillismo
+
+  - 16:00 [Código](https://gist.github.com/EmilioOcelotl/6adebf0638cb1d868f835f9fe50c41c3) | [Video](https://drive.google.com/file/d/1LWOmCdOQcVy5Y-Lx0oV-gyw9_sg3ggvE/view?usp=sharing)
+  - 18:30 [Código](https://gist.github.com/EmilioOcelotl/096a01c88c37605cecab0e15a15c5c2b) | [Video](https://drive.google.com/file/d/1so79GZ-xXqhngBi6v4UmWJaFmQfQ37Q8/view?usp=sharing) 
 
 ## Actividades y entregas
 
