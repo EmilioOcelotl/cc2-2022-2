@@ -104,6 +104,21 @@
   - 16:00 [Código](https://gist.github.com/EmilioOcelotl/6adebf0638cb1d868f835f9fe50c41c3) | [Video](https://drive.google.com/file/d/1LWOmCdOQcVy5Y-Lx0oV-gyw9_sg3ggvE/view?usp=sharing)
   - 18:30 [Código](https://gist.github.com/EmilioOcelotl/096a01c88c37605cecab0e15a15c5c2b) | [Video](https://drive.google.com/file/d/1so79GZ-xXqhngBi6v4UmWJaFmQfQ37Q8/view?usp=sharing) 
 
+- [x] Sesión 14 - Máscara con PGraphics
+
+  - Repaso > entrega pendiente de puntillismo 
+  - Capas 
+  - PGraphics y métodos
+  - PImage y mask
+
+- [x] Sesión 15 - Máscara y entrega
+
+  - 16:00 [Código](https://gist.github.com/EmilioOcelotl/edf9afffafc5a7ff3959bbb3304ddfeb) | [Video](https://drive.google.com/file/d/1cUUEBaCXbhMihZibwYrCkU_ptvaU9Gw3/view?usp=sharing)
+  - 18:30 [Código](https://gist.github.com/EmilioOcelotl/9ccbb2331c0338da1850d5b7e2726aae) | [Video](https://drive.google.com/file/d/1so79GZ-xXqhngBi6v4UmWJaFmQfQ37Q8/view?usp=sharing)
+
+  - Entregas pendientes
+  - Máscara y entrega
+
 ## Actividades y entregas
 
 - [x] 17.02.2022.- Leer y comentar: [Zach Lieberman - Daily Sketches 2016](https://zachlieberman.medium.com/daily-sketches-2016-28586d8f008e) 
